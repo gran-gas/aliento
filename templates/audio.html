@@ -1,0 +1,37 @@
+{% extends 'layout.html' %}
+{% block main %}
+
+
+    <main class="intro-main" id="preload">
+        <div class="card text-center intro-card">
+
+        <div class="card-header intro-card-header">
+                <p class="card-text h4 main-title">Audios "Aliento para el viaje"</p>
+        </div>
+        <br>
+        <br>
+        <br>
+        <div class="card-body align-middle">
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+            
+                <audio controls>
+                        <source src="../static/audio/diario.mp3" type="audio/mpeg">
+                      Your browser does not support the audio element.
+                </audio>
+
+                <div class="borders-main">
+                    <a href="main.html">
+                        <i class="material-icons">
+                           keyboard_backspace
+                        </i>
+                        <p>Volver</p>
+                    </a>
+                </div>
+        </div>
+    </main>
+
+{% endblock %}

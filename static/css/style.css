@@ -1,0 +1,103 @@
+/* INDEX STYLING */
+body{
+
+    background-color: #00838f;
+
+}
+
+main{
+    height: 70vh;
+    background-color: #00838f;
+}
+
+.intro-card{
+
+    background-color: #00838f;
+    color: white;
+    font-family: 'Courgette', cursive;
+}
+
+.intro-card-header{
+
+    background-color: #0b656d;
+    padding: 5%;
+
+}
+
+.intro-title{
+
+    font-size: 2rem;
+}
+
+/* MAIN STYLE */
+
+.borders-main{
+    border: 1px solid white;
+    padding: 5%;
+    padding-left: -2%;
+    padding-right: -2%;
+    margin-bottom: 10%;
+    border-radius: 2%;
+}
+
+.borders-main>a>p{
+
+    font-size: 1.5rem;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+
+    color: rgb(197, 194, 194);
+}
+
+a:active{
+
+    color: rgb(190, 186, 186);
+}
+
+.main-title{
+
+    font-size: 1.5rem;
+}
+
+audio{
+    margin-bottom: 50%;
+}
+
+/* ACERCA STYLING */
+
+.acerca-img{
+
+        padding: 10%;
+        padding-left: 7%;
+        padding-right: 7%;
+        padding-bottom: 15%;
+        border-radius: 20%;
+}
+
+.acerca-icon{
+
+    font-size: 4rem;
+
+}
+
+.color-blue{
+
+    color: blue;
+}
+.color-pink{
+
+    color: pink;
+}
+
+.boton-volver{
+    text-align: center;
+    margin-left: 43%;
+}
+
+
