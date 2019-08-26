@@ -36,3 +36,7 @@ def terms():
 @app.route('/privacy_policy.html')
 def privacy():
    return render_template('privacy_policy.html')
+
+@app.route('/masaliento1.html')
+def masaliento1():
+   return render_template('masaliento1.html')
