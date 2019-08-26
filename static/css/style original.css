@@ -1,29 +1,25 @@
 /* INDEX STYLING */
-html{
-    background-color: rgb(250, 249, 249);
-}
-
 body{
 
-    background-color: rgb(250, 249, 249);
+    background-color: #00838f;
 
 }
 
 main{
     height: 70vh;
-    background-color: rgb(250, 249, 249);
+    background-color: #00838f;
 }
 
 .intro-card{
 
-    background-color: rgb(250, 249, 249);
-    color: #2D2A32;
+    background-color: #00838f;
+    color: white;
     font-family: 'Courgette', cursive;
 }
 
 .intro-card-header{
 
-    background-color:  rgb(250, 249, 249);
+    background-color: #0b656d;
     padding: 5%;
 
 }
@@ -50,7 +46,7 @@ main{
 }
 
 a{
-    color:  #0C120C;
+    color: white;
     text-decoration: none;
 }
 
@@ -67,8 +63,6 @@ a:active{
 .main-title{
 
     font-size: 1.5rem;
-    color: #0d636e;
-    
 }
 
 audio{
@@ -106,26 +100,4 @@ audio{
     margin-left: 43%;
 }
 
-.red{
 
-    color: #00A7E1;
-}
-
-.yellow{
-    color: #ED254E;
-}
-
-.salmon{
-    color: #F9C80E;
-}
-
-.green{
-
-    color: #053225;
-}
-
-.background-player{
-
-    background-color: rgb(0, 0, 0);
-    font-size: 3rem;
-}                                                                                   
