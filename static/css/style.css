@@ -174,4 +174,7 @@ audio{
       opacity: 1;
     }
   }
+  .imagen-hided{
+      visibility: hidden;
+  }
   
