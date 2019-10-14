@@ -40,3 +40,7 @@ def privacy():
 @app.route('/masaliento1.html')
 def masaliento1():
    return render_template('masaliento1.html')
+
+@app.route('/proximo.html')
+def proximo():
+   return render_template('proximo.html')
